@@ -24,3 +24,4 @@ class GoldenRetriever(Dog):
 
 gR = GoldenRetriever("Tommy", "Brown")
 gR.showDetails()
+print(GoldenRetriever.mro())
