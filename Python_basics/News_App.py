@@ -27,6 +27,42 @@ If not
 Press 0\n''')
     if answer == '0':
         break
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #answer = input('''If you want to know more about the above mentioned news
 #Press the number before that news or 0 to exit : - ''')
 #print(answer)
