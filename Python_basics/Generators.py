@@ -2,6 +2,6 @@ def my_generator():
     for i in range(500):
         yield i
 
-gen = mygen()
+gen = my_generator()
 for j in gen:
     print(next(gen))
