@@ -6,4 +6,3 @@ elif os.uname().sysname == 'Linux':
     print("You are currently working on a Linux Operating System")
 elif os.uname().sysname == 'Darwin':
     print("You are currently working on a Mac Operating System")
-
