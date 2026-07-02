@@ -19,6 +19,7 @@ while True:
     for index, article in enumerate(articles, start = 1):
         if article['publishedAt'].startswith(date):
             print(f"{index} - {article['title']}")
+            print("--------------------------------------------------------------------------------")
         else:
             break
     answer = input(f'''If you are interested in seeing some other types of news
